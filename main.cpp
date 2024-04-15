@@ -116,9 +116,13 @@ void move_robot(const void * arg) {
             if (blue_num == 1) {
                 autonomous_mode = !autonomous_mode;
                 blue_num = 0;
-            } else if (distance <= 100) {
+            } else if (distance <= 250) {
                 right_wheel.speed(0.0);
                 left_wheel.speed(0.5);
+                Thread::wait(100);
+                right_wheel.speed(0.0);
+                left_wheel.speed(0.5);
+                Thread::wait(100);
             } else {
                 left_wheel.speed(0.5);
                 right_wheel.speed(0.5);
@@ -161,7 +165,6 @@ int main()
     Thread t4(read_bnum);
 
     mu.startUpdates();
-    int i = 0;
 
     while(1){
         FILE *wave_file;
