@@ -1,4 +1,5 @@
 # ECE 4180 Final Project
+### By Emmanuel Etukudoh, Tawhid Ahmad, Byron Pritchett
 
 # Description: 
 
