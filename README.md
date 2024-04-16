@@ -21,6 +21,7 @@ Our goal with this project will be adding aditional functionality to the robot k
 
 
 ## Demo:
+<img width="459" alt="image" src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/e3231054-4865-44be-b5c1-eb2551322d47">
 
 
 ## Code:
