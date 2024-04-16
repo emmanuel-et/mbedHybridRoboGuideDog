@@ -5,14 +5,14 @@
 Our goal with this project will be adding aditional functionality to the robot kit available in the lab to make it into a bluetooth controlled guiding robot. We already knew how to interface with the motors of the robot, but for this design project we had to figure out how to add object avoidance, a remote control mode, visual and auditory indicators to the existing robot frame. For object avoidance, we utilized the sonar sensor (HC-SR04) from Lab 3 and fine tuned it to allow for avoidance of a wide variety of objects. When toggled, this modes runs continuously as the robot explores its environment, avoiding objects when they are 250 mm away. We also used the Adafruit Bluetooth LE UART module for the remote control aspect of the robot, as we used the provided controller within the UART app, to manually control the movement of the robot. Both the uLCD and speaker indicate the robot's current mode.
 
 ## Equipment:
-mBED
-4DGL-uLCD-SE
-MicroSD Breakout Board
-Breadboard Mount Speaker
-HC-SR04 Sonar Sensor
-Adafruit Bluetooth LE UART
-ECE 4180 Robot Kit
-DC Motors
+*mBED
+*4DGL-uLCD-SE
+*MicroSD Breakout Board
+*Breadboard Mount Speaker
+*HC-SR04 Sonar Sensor
+*Adafruit Bluetooth LE UART
+*ECE 4180 Robot Kit
+*DC Motors
 
 ## Connections:
 
