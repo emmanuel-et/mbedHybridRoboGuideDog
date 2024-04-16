@@ -18,6 +18,7 @@ Our goal with this project will be adding aditional functionality to the robot k
 
 
 ## Button Mappings:
+<img width="482" alt="image" src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/76860d23-350b-44e5-b7e7-139218079771">
 
 
 ## Demo:
