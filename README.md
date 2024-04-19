@@ -16,7 +16,7 @@ Our goal with this project will be adding aditional functionality to the robot k
 
 ## Connections:
 | mBED | uLCD | MicroSD | Sonar | Adafruuit | DC Motors |
-| :---         |     :---:      |          ---: |
+| ---         |    ---      |      --- |  ---         |    ---      |      --- |
 | git status   | git status     | git status    | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |  git diff     | git diff       | git diff      |
 
