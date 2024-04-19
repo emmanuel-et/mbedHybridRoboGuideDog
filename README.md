@@ -35,6 +35,8 @@ In order to utilize the code you will have to clone this repositiory into Kiel S
 Steps for cloning:
 Kiel Studio -> File -> Clone -> Input repository URL 
 
+Once the code is placed into Kiel Studio, the project would then be compiled as normal with how projects were compiled in the previous labs. 
+
 ## References:
 * https://os.mbed.com/users/4180_1/notebook/sparkfun-magician-robot-base-kit/
 * https://os.mbed.com/users/4180_1/notebook/using-the-hc-sr04-sonar-sensor/
