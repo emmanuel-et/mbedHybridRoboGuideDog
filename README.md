@@ -1,9 +1,8 @@
 # ECE 4180 Final Project: Hybrid Robo Guide Dog
 ### By Emmanuel Etukudoh, Tawhid Ahmad, Byron Pritchett
 
-<img src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/fa5b5ddb-8d1b-4779-aa7a-f83588443e01" width="200">
-
-![IMG_8938](https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/06ddfd15-673f-40a2-bbd1-140e76363cd6)
+<img src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/fa5b5ddb-8d1b-4779-aa7a-f83588443e01" width="500">
+<img src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/06ddfd15-673f-40a2-bbd1-140e76363cd6" width="500">
 
 ## Description: 
 Our goal with this project will be adding aditional functionality to the robot kit available in the lab to make it into a bluetooth controlled guiding robot. We already knew how to interface with the motors of the robot, but for this design project we had to figure out how to add object avoidance, a remote control mode, visual and auditory indicators to the existing robot frame. For object avoidance, we utilized the sonar sensor (HC-SR04) from Lab 3 and fine tuned it to allow for avoidance of a wide variety of objects. When toggled, this modes runs continuously as the robot explores its environment, avoiding objects when they are 250 mm away. We also used the Adafruit Bluetooth LE UART module for the remote control aspect of the robot, as we used the provided controller within the UART app, to manually control the movement of the robot. Both the uLCD and speaker indicate the robot's current mode.
