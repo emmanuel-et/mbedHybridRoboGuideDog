@@ -1,7 +1,8 @@
 # ECE 4180 Final Project: Hybrid Robo Guide Dog
 ### By Emmanuel Etukudoh, Tawhid Ahmad, Byron Pritchett
 
-![IMG_8982](https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/fa5b5ddb-8d1b-4779-aa7a-f83588443e01)
+<img src="https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/fa5b5ddb-8d1b-4779-aa7a-f83588443e01" width="200">
+
 ![IMG_8938](https://github.com/emmanuel-et/mbedHybridRoboGuideDog/assets/115197111/06ddfd15-673f-40a2-bbd1-140e76363cd6)
 
 ## Description: 
